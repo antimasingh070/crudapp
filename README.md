@@ -2,6 +2,8 @@
 
 CRUD Operation in Ruby on Rails
 
+Check the app here : (https://gentle-basin-44366.herokuapp.com/)
+
 Features:
 
 1.Add About page and homework assignment 
